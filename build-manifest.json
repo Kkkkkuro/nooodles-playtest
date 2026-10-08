@@ -1,0 +1,110 @@
+{
+  "source_commit": "ec99d73b2ce01b872aa4571dff74ecdc8117ed0d",
+  "dirty": false,
+  "assets": {
+    "assets/models/hero_s01_C01_material_r3.glb": {
+      "bytes": 1514256,
+      "sha256": "bd3bdab75c9bb7912292773a98bd7f9e4d6e34add5109ff49e0025396b892896"
+    },
+    "assets/models/entrance_r6.glb": {
+      "bytes": 507820,
+      "sha256": "4abaeee7ef5fd7be85689fdf1d1098c0ce8cb27686902e3b1e9b2796e1b1fc81"
+    },
+    "assets/models/storefront_shop_direct_tree_t2.glb": {
+      "bytes": 2033928,
+      "sha256": "22f4fd9e905513a25a28968a902cb342f684b6149cd96860a2a291a50d36546a"
+    },
+    "assets/models/ground_pavement_atlas_v1.glb": {
+      "bytes": 1538872,
+      "sha256": "cdc2e4bcaafe70ed8493be3500960e093949f4ab30766f37067abf197e32cdd2"
+    },
+    "assets/models/umbrella_closed.glb": {
+      "bytes": 33924,
+      "sha256": "b87dbb9cd84908b8849f6f1a645d9969fcbc30cc23abfb5d45beab7d79645e48"
+    },
+    "assets/models/lamppost.glb": {
+      "bytes": 16252,
+      "sha256": "2b89766c59ca596fc471ed2556fda8a65623205ff6b571fddfa521512ca7450c"
+    },
+    "assets/models/shelf.glb": {
+      "bytes": 558920,
+      "sha256": "727dc8e38d639f4f81af8f5ced99069030ab2b2eebfc9844ebf14b080d8ac0d5"
+    },
+    "assets/models/counter-thin-s02.glb": {
+      "bytes": 82500,
+      "sha256": "a6b60562a4e069ece5866d3385645e2eabfd0ef0757b28566ea7e7cae0f0d99b"
+    },
+    "assets/models/cup-open-s02.glb": {
+      "bytes": 48032,
+      "sha256": "e30a17e8ea7f47179e866d3a6dfa9cf7eb218fa9608342d205d65909048f740c"
+    },
+    "assets/models/clerk-c02-r1.glb": {
+      "bytes": 374996,
+      "sha256": "6aafe697c5df4d0a99c4f8ac6969f60d05199834ddb887462826b6477612e730"
+    },
+    "assets/models/plant.glb": {
+      "bytes": 32228,
+      "sha256": "ff757144c6d212f83532a02587f4d5e45feb90afc6f5265e90fe8f3743546d6a"
+    },
+    "assets/models/table.glb": {
+      "bytes": 52180,
+      "sha256": "c98fe30024e9846915916dd6b18c148882f9d29ae71a1df5ec3d20eab302de46"
+    },
+    "assets/models/floor_tile.glb": {
+      "bytes": 11472,
+      "sha256": "d94f217ea618290f39b4a68e6c506c0e53ef52dab22d868340741515a370bfa6"
+    },
+    "assets/models/soup_landscape.glb": {
+      "bytes": 678600,
+      "sha256": "74034636cf99bb7a9792aa19280c2fbd17f4a38914f4d14b85a8712d3f7840ec"
+    },
+    "assets/models/soup_backdrop.glb": {
+      "bytes": 527020,
+      "sha256": "247b108237c6b2c70d36f28f466f3259695aa8889a3ff50c01434eb8cabdde22"
+    },
+    "assets/models/beef_cave_clearance.glb": {
+      "bytes": 81584,
+      "sha256": "84c3a2b9da7cc25ea060d0f9ddc0a86373c724c83184a51e2faf3e67540c3ef6"
+    },
+    "assets/models/beef_cliff.glb": {
+      "bytes": 130808,
+      "sha256": "bfc96c13c8f291d7a28d4bb7f0834e1838e8c05aceb3ca5c8304bd5b337eec06"
+    },
+    "assets/models/weather_station.glb": {
+      "bytes": 120380,
+      "sha256": "73aa832065dfcef16a0659b88d5debefebe4523547e8fb4c129f86aed31f33ff"
+    },
+    "assets/models/chopstick_bridge.glb": {
+      "bytes": 111076,
+      "sha256": "83ef1845ae6159fe52b164071351cb64c7d878f76d118fba214c3f10d9fccbb5"
+    },
+    "assets/models/soup_punch.glb": {
+      "bytes": 49632,
+      "sha256": "86beab7ac130cf7d5b59cad6c9593c7b8dee2c5076119ac22a3e597c438449c7"
+    },
+    "assets/models/foil_gate.glb": {
+      "bytes": 32100,
+      "sha256": "28c8ed4370b2fe9f65bb107d422cc365f5b66bfbe99dc37694786fd8571ba3b7"
+    },
+    "assets/data/noodle-paths.json": {
+      "bytes": 7265,
+      "sha256": "55432a62e360578761caf28d8e82c2afa9bb94556f104448e43b19d6ea037bb5"
+    },
+    "assets/fonts/Chinese.ttf": {
+      "bytes": 75184,
+      "sha256": "73bfe574ec1acf35a23899f57520740a33db45b5eaaf7811ebce8ef7c7b08f30"
+    },
+    "assets/fonts/OFL.txt": {
+      "bytes": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    },
+    "assets/audio/rain.wav": {
+      "bytes": 176444,
+      "sha256": "b811ebb9e0a69900498396e8494f26d591b42abd896603b739f2f28534b7e5db"
+    },
+    "assets/audio/bell.wav": {
+      "bytes": 48554,
+      "sha256": "920739bb42ec9636ddd00d242fad7fec1a16ab128a83ec437e081bf2ed481e99"
+    }
+  }
+}
